@@ -13,11 +13,23 @@ Each project is a practical exercise focused on implementing the four fundamenta
 
 Through these projects, you will find concrete examples of how these concepts interoperate to build modular, flexible, and maintainable C++ applications.
 
+---
+
+## 🔧 Key C++ Features in Practice
+
+Beyond the four main OOP pillars, these projects also demonstrate the practical application of other crucial C++ concepts. You'll find specific examples of:
+
+* **Dynamic Memory Management:** See *how* and *why* dynamic memory is used. The projects show the application of raw pointers, the `new` keyword for allocating objects on the heap, and the `delete` keyword to ensure proper cleanup and prevent memory leaks.
+* **Pointers and References:** Understand how pointers and references are used to pass objects efficiently, implement polymorphism, and manage dynamically allocated data.
+---
+
 ## 🧠 Learn from the Process
 
 This repository values the process as much as the product. Beyond just the final source code, each project folder includes images documenting the **ideation and brainstorming process**. This behind-the-scenes look is intended to show the planning, whiteboarding, and design decisions that led to the final structure.
 
-The goal is to provide a complete "from scratch" guide. New developers are encouraged to **fork this repo**, review the planning materials,and then challenge themselves to build the project before comparing it with the final solution. This active-learning approach is highly recommended for building deep comprehension.
+The goal is to provide a complete "from scratch" guide. New developers are encouraged to **fork this repo**, review the planning materials, and then challenge themselves to build the project before comparing it with the final solution. This active-learning approach is highly recommended for building deep comprehension.
+
+---
 
 ## 🤝 Contributions
 
